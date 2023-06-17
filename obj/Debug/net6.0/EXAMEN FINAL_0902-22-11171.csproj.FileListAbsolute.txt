@@ -1,0 +1,15 @@
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\bin\Debug\net6.0\EXAMEN FINAL_0902-22-11171.exe
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\bin\Debug\net6.0\EXAMEN FINAL_0902-22-11171.deps.json
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\bin\Debug\net6.0\EXAMEN FINAL_0902-22-11171.runtimeconfig.json
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\bin\Debug\net6.0\EXAMEN FINAL_0902-22-11171.dll
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\bin\Debug\net6.0\EXAMEN FINAL_0902-22-11171.pdb
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\obj\Debug\net6.0\EXAMEN FINAL_0902-22-11171.csproj.AssemblyReference.cache
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\obj\Debug\net6.0\EXAMEN FINAL_0902-22-11171.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\obj\Debug\net6.0\EXAMEN FINAL_0902-22-11171.AssemblyInfoInputs.cache
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\obj\Debug\net6.0\EXAMEN FINAL_0902-22-11171.AssemblyInfo.cs
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\obj\Debug\net6.0\EXAMEN FINAL_0902-22-11171.csproj.CoreCompileInputs.cache
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\obj\Debug\net6.0\EXAMEN FINAL_0902-22-11171.dll
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\obj\Debug\net6.0\refint\EXAMEN FINAL_0902-22-11171.dll
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\obj\Debug\net6.0\EXAMEN FINAL_0902-22-11171.pdb
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\obj\Debug\net6.0\EXAMEN FINAL_0902-22-11171.genruntimeconfig.cache
+C:\Users\apaca\OneDrive\Escritorio\EXAMNE FINAL PROGRA\EXAMEN FINAL_0902-22-11171\obj\Debug\net6.0\ref\EXAMEN FINAL_0902-22-11171.dll
